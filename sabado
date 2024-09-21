@@ -48,7 +48,7 @@
                 <select>
                     <option value="jogador">Jogador</option>
                     <option value="administrador">Administrador</option>
-                    <option value="professor">Professor</option><br>
+                    <option value="professor">Professor</option>
                 </select><Br>
 
                 <label><input name="manterlogado" type="checkbox" value="sim" /> Manter logado:</label><br>
